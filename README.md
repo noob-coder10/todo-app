@@ -6,9 +6,9 @@
 
 • User can add any task, edit the task and also delete the task. Every time a task is added or modified, the current date and timestamp will be captured and added to the task description.
 
-• User can toggle 6 pre-defined beautiful themes also. 
+• User can toggle between six pre-defined beautiful themes also. 
 
-• All user's data will be stored in the localstorage of that browser.
+• Here user's data will be stored in the localstorage of that browser.
 
 ## Tech Stack
 
