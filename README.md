@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-**Client:** HTML5, CSS3,Javascript, React Js
+**Client:** HTML5, CSS3, Javascript, React Js
 
 
 
