@@ -109,6 +109,7 @@ header .themeSelector .activeTheme{
 .addTask form{
   display: flex;
   gap: 7px;
+  flex-direction: row;
 }
 
 .addTask form input{
@@ -255,9 +256,9 @@ header .themeSelector .activeTheme{
 }
 
 
-@media screen and (max-width: 330px) {
-  .addTask form input{
-    width: 50%;
-    font-size: 14px;
+@media screen and (max-width: 450px) {
+
+  .addTask form{
+    flex-direction: column;
   }
 }
